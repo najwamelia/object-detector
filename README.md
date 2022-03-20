@@ -5,7 +5,7 @@ Kami menggunakan referensi dari nanonets yang menggunakan tensorflowjs atau yang
 1. Instal vue untuk projek object-detection (buat folder object-detection)
 2. Masuk ke directory projeknya, lalu instal tensorflowjs dengan command "npm install @tensorflow/tfjs"
 3. Instal model coco ssd dengan command "nmp install @tensorflow-models/coco-ssd"
-4. coding
+4. Coding program dalam app.vue
 5. Jalankan scriptnya dengan command npm run serve
 6. Masuk ke browser dengan url localhost 8080 
 
